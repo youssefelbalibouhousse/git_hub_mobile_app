@@ -1,6 +1,6 @@
 # git_hub_mobile_app
 
-A new Flutter project.
+Application mobile permettant l'acces aux differents utilisateurs de github via le framework Flutter
 
 ## Getting Started
 
